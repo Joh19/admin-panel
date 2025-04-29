@@ -1,0 +1,16 @@
+{
+    "name": "josiah/admin-panel",
+    "autoload": {
+        "psr-4": {
+            "Josiah\\AdminPanel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josiah"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.2"
+    }
+}
